@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @bjerkemj
+# Johan Bjerkem
+
+- 👋 Hi I’m a second year student at NTNU studying engineering and ICT
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning SQL and React.
 - 💞️ I’m looking to collaborate on anything fun.
