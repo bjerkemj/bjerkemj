@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning SQL and React.
 - 💞️ I’m looking to collaborate on anything fun.
-- 📫 How to reach me @bjerkem.j@gmail.com
+- 📫 Reach me @bjerkem.j@gmail.com
 
 <!---
 bjerkemj/bjerkemj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
