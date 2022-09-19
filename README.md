@@ -1,6 +1,6 @@
 # Johan Bjerkem
 
-- 👋 Hi I’m a third year student at NTNU studying Engineering and ICT
+- 👋 Hi, I’m a third year student at NTNU studying Engineering and ICT
 - 🤖 My study specialization is Machine Engineering
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning machine learning
