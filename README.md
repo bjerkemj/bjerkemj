@@ -1,9 +1,9 @@
 # Johan Bjerkem
 
 - 👋 Hi, I’m a fourth year student at NTNU studying Engineering and ICT
-- 🤖 My study specialization is Machine Engineering
+- 🤖 My study specialization is Mechanical Engineering
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently robotics and data simulation
+- 🌱 I’m currently robotics and data visulisation and simulation
 - 📫 Reach me @bjerkem.j@gmail.com
 
 <!---
